@@ -1,4 +1,3 @@
-
 Instructor:
     Mark McDermott
 
